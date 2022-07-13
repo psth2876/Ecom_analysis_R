@@ -137,22 +137,24 @@ technology category and least sales are of Office Supplies. Most
 preferred order priority is of medium while lowest and critical priority
 are least used.
 
-![Chart, bar chart Description automatically
-generated](media/image29.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178676122-d6b0f3ac-a227-4417-8ee9-07caeb4211c2.png)
+
 
 From the above plots we can clearly say consumer have huge number of
 orders while home Office segment has a smaller number of orders in the
 store data. Asia pacific Market place has high number of order while
 Africa has contributed very low in numbers.
 
-![Chart Description automatically generated](media/image30.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178676210-f6247311-c38c-4017-bc0b-ec078459e5e7.png)
+
 
 From the above facet wrap plots we can say Office supplies has more
 orders than other two categories. Comparing the order priorities low and
 critical priorities have very a smaller number of orders as compared to
 high and medium priorities.
 
-![Chart Description automatically generated](media/image31.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178676293-d34cb4a6-3cc9-4586-9848-1a260473b9fc.png)
+
 
 From the above bar plot, it can be concluded that Losses have been
 incurred by the tables industry mainly in the Asia Pacific region while
