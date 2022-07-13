@@ -107,35 +107,30 @@ that "Sales" and "Shipping Costs" are positively related. "Profit" and
 "Discount" are very weakly related. "Profit" and "Discount" are
 negatively related.
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image24.tmp)
 
-![Chart, bar chart Description automatically
-generated](media/image25.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178675628-7cd60fe8-8d69-4ab3-8664-5fc54a95dd08.png)
 
 In above bar plot we have grouped order by Priorities and calculated
 their mean shipping cost. We can clearly describe the graph as critical
 priority has the maximum mean value while medium has the lowest in mean
 range of values.
 
-![Chart, scatter chart Description automatically
-generated](media/image26.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178675769-144602a8-1ac9-49a4-8038-b8c71d832494.png)
 
 From above scatter points we can see more profits and loss have been
 availed from the standard class while there are small range of profits
 seen in increment of sales feature. First class shipping mode has some
 better positive in profit generation in compared to other modes.
 
-![Chart, scatter chart Description automatically
-generated](media/image27.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178675869-7c700e08-4f54-4de1-8647-bfe76364f8a5.png)
 
 From above plot we can explain that the Sales to Profit ratio is same in
 every category, no matter how they are clubbed. Furniture is neutral in
 comparison with others while mostly Office Supplies and Technology are
 in positive ranges.
 
-![Chart, bar chart Description automatically
-generated](media/image28.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178675947-02ce4f06-8afa-48c1-b553-9e597cad4ea6.png)
+
 
 From above bar plot we can say that more sales have been incurred by the
 technology category and least sales are of Office Supplies. Most
