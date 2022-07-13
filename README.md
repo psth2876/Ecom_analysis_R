@@ -282,31 +282,26 @@ In this figure the summary of the model created is shown.
 We now split the data into two parts test and train which are at a ratio
 of 20 and 80 respectively.
 
+![image](https://user-images.githubusercontent.com/23220212/178679692-7bcd1154-1865-410c-873a-d3edc5812507.png)
 
 
 A predicted visualization is shown for trained data from the model
 created where x axis represents the predicted value from model and y is
 the Sales values.
 
-![](media/image44.tmp)
-
-![Chart, scatter chart Description automatically
-generated](media/image45.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178679865-6681ba25-cc02-4e56-83d5-537bde1f5f53.png)
 
 Here the graph of test model is shown where x axis represents the
 predicted on test model and Sales data on y axis.
 
-![Graphical user interface, application Description automatically
-generated](media/image46.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178680256-1e14640d-62c1-4a3e-8f79-42c91de1a4b7.png)
 
 In above figure the Root mean square is shown which is 72 percentage so
 that we can confirm this model as an average model.
 
-![Graphical user interface, text, application Description automatically
-generated](media/image47.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178680419-425a6f4a-6943-47bc-af37-bad9198d545d.png)
 
-![Graphical user interface, text, application Description automatically
-generated](media/image48.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178680478-3f78a38f-f2cb-4474-be80-b2435945890e.png)
 
 The above figure shows the residuals to calculate the RMSE and Standard
 Deviation on test models. We can say it average model as the RMSE is
