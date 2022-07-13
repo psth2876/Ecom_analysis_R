@@ -268,21 +268,21 @@ Applying the four independent features from the data frame and using
 linear regression to create a model using Sales as the dependent
 feature.
 
-
+![image](https://user-images.githubusercontent.com/23220212/178678511-a5508388-fe02-406c-b4cc-8d00c4213743.png)
 
 Above figure demonstrates us about the predicted and model created
 visualizations and assigned it in a variable.
 
-![image](https://user-images.githubusercontent.com/23220212/178678511-a5508388-fe02-406c-b4cc-8d00c4213743.png)
+![image](https://user-images.githubusercontent.com/23220212/178678584-52522ddf-122b-4a4c-ac7b-89069c4bc416.png)
 
 In this figure the summary of the model created is shown.
 
-![image](https://user-images.githubusercontent.com/23220212/178678584-52522ddf-122b-4a4c-ac7b-89069c4bc416.png)
+![image](https://user-images.githubusercontent.com/23220212/178678657-e3a92790-31e4-45f5-b503-6ee81db4d2c6.png)
 
 We now split the data into two parts test and train which are at a ratio
 of 20 and 80 respectively.
 
-![image](https://user-images.githubusercontent.com/23220212/178678657-e3a92790-31e4-45f5-b503-6ee81db4d2c6.png)
+
 
 A predicted visualization is shown for trained data from the model
 created where x axis represents the predicted value from model and y is
