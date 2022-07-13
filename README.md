@@ -294,17 +294,3 @@ the Sales values.
 Here the graph of test model is shown where x axis represents the
 predicted on test model and Sales data on y axis.
 
-![image](https://user-images.githubusercontent.com/23220212/178680256-1e14640d-62c1-4a3e-8f79-42c91de1a4b7.png)
-
-In above figure the Root mean square is shown which is 72 percentage so
-that we can confirm this model as an average model.
-
-![image](https://user-images.githubusercontent.com/23220212/178680419-425a6f4a-6943-47bc-af37-bad9198d545d.png)
-
-![image](https://user-images.githubusercontent.com/23220212/178680478-3f78a38f-f2cb-4474-be80-b2435945890e.png)
-
-The above figure shows the residuals to calculate the RMSE and Standard
-Deviation on test models. We can say it average model as the RMSE is
-less in compared to Standard Deviation.
-
-
