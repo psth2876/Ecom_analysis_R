@@ -1,6 +1,6 @@
 # Ecom_analysis_R
 
-# Introduction 
+# 1\. Introduction 
 
 The dataset used for this coursework is obtained from tableau Community.
 The data set Global Super Store has around 51000 values. It is a
@@ -55,56 +55,8 @@ as data preparation. It's a crucial stage before processing that often
 include reformatting data, making data changes, and integrating data
 sets to improve data.
 
-![Graphical user interface, application Description automatically
-generated](media/image1.tmp)
+Preparation code can be found on scripts mentioned 
 
-![Graphical user interface, text, application Description automatically
-generated](media/image2.tmp)
-
-![Graphical user interface, text, application Description automatically
-generated](media/image3.tmp)
-
-![Graphical user interface, application Description automatically
-generated](media/image4.tmp)
-
-![Text Description automatically generated](media/image5.tmp)
-
-![A picture containing text Description automatically
-generated](media/image6.tmp)
-
-![Text Description automatically generated](media/image7.tmp)
-
-![Graphical user interface, text, application Description automatically
-generated](media/image8.tmp)
-
-![Graphical user interface Description automatically generated with
-medium confidence](media/image9.tmp)
-
-![Graphical user interface, text, application, email Description
-automatically generated](media/image10.tmp)
-
-![Graphical user interface, text, application Description automatically
-generated](media/image11.tmp)
-
-![Graphical user interface, text, application Description automatically
-generated](media/image12.tmp)
-
-![Graphical user interface, text, application Description automatically
-generated](media/image13.tmp)
-
-![Graphical user interface, text, application Description automatically
-generated](media/image14.tmp)
-
-![A picture containing text Description automatically
-generated](media/image15.tmp)
-
-![Application Description automatically generated with medium
-confidence](media/image16.tmp)
-
-![Table Description automatically generated](media/image17.tmp)
-
-![A picture containing graphical user interface Description
-automatically generated](media/image18.tmp)
 
 # 4\. Exploratory Data Analysis
 
@@ -115,8 +67,7 @@ hypotheses, and verify conclusions.
 
 ## 4.1 Data Visualization
 
-![Chart, bar chart Description automatically
-generated](media/image19.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178661373-d092c07e-3e88-446c-be1b-25ae85c5c4e6.png)
 
 The above bar chart displays the total number of orders by market areas
 which clearly shows Africa has the minimum order counts (less than
@@ -124,8 +75,7 @@ which clearly shows Africa has the minimum order counts (less than
 following it and remaining LATAM and USCA are almost identical at close
 to 10k.
 
-![Chart, histogram Description automatically
-generated](media/image20.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178661464-4a81a3ac-d619-48d3-8dc8-bdb7134ac3ac.png)
 
 The above histogram visualization shows the frequency distribution of
 the quantity ordered. The maximum ordered quantity is from 0 to 2 which
@@ -135,8 +85,8 @@ increased the frequency count gets decreased. The 10 to 14 number of
 quantities has the least frequency. There is a huge gap between the 0 to
 2 and remaining other quantities.
 
-![Chart, pie chart Description automatically
-generated](media/image21.tmp)
+
+![image](https://user-images.githubusercontent.com/23220212/178661528-97648af5-15cd-4bac-847f-a8e14b625e96.png)
 
 The above pie chart shows the percentage sales by category that includes
 Technology, Furniture and Office Supplies. Product category "Technology"
@@ -144,11 +94,9 @@ has contributed maximum sales which is 37%. It is then followed by
 "Furniture” which is 33%. "Office Supplies" has contributed the least
 which is 30%.
 
-![Graphical user interface, application Description automatically
-generated with medium confidence](media/image22.tmp)
 
-![A picture containing table Description automatically
-generated](media/image23.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178661607-30b74729-a58e-4d28-9444-2be754d08426.png)
+
 
 The above co-relation matrix chart provides the co-relationship
 information among different variables. The color gradient from Red to
