@@ -23,31 +23,6 @@ data. There are some missing values in the data set in Postal Code
 column. Most of the data inside the files are in Categorical type and
 continuous data types.
 
-| **SN.** | **Features**   | **Data Types** | **Variable Types** |
-| ------- | -------------- | -------------- | ------------------ |
-| 1       | Order ID       | Categorical    | Categorical        |
-| 2       | Order Date     | Date           | Continuous         |
-| 3       | Ship Date      | Date           | Continuous         |
-| 4       | Ship Mode      | Categorical    | Categorical        |
-| 5       | Customer ID    | Categorical    | Categorical        |
-| 6       | Segment        | Categorical    | Categorical        |
-| 7       | Postal Code    | int            | Discrete           |
-| 8       | City           | Categorical    | Categorical        |
-| 9       | State          | Categorical    | Categorical        |
-| 10      | Country        | Categorical    | Categorical        |
-| 11      | Region         | Categorical    | Categorical        |
-| 12      | Market         | Categorical    | Categorical        |
-| 13      | Product ID     | Categorical    | Categorical        |
-| 14      | Category       | Categorical    | Categorical        |
-| 15      | Subcategory    | Categorical    | Categorical        |
-| 16      | Product Name   | Categorical    | Categorical        |
-| 17      | Sales          | float          | Continuous         |
-| 18      | Quantity       | int            | Discrete           |
-| 19      | Discount       | float          | Continuous         |
-| 20      | Profit         | float          | Continuous         |
-| 21      | Shipping Cost  | float          | Continuous         |
-| 22      | Order Priority | Categorical    | Categorical        |
-
 # 3\. Data preparation and Manipulation
 
 Cleaning and converting raw data before processing and analysis is known
