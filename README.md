@@ -210,17 +210,13 @@ helpful. Correlation analysis is frequently mistaken as determining
 cause and effect; however, this is not the case because other variables
 not included in the study could have influenced the outcomes.
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image32.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178677260-2b9db8eb-2e8d-4bc3-bf11-2c6e3dd2b33e.png)
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image33.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178677311-03d5364c-fbd4-4842-a32f-9e7c497084de.png)
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image34.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178677419-b0a48151-de46-4f71-b16b-aa3d4830f8b2.png)
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image35.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178677471-d8169b94-f5c3-494d-807c-7b875d9c607d.png)
 
 # 6\. predictive Data Analysis
 
@@ -242,8 +238,7 @@ squares" method to get the best-fit line for a set of paired data are
 available and uses Y (independent variable) to calculate the value of X
 (dependent variable).
 
-![Chart, box and whisker chart Description automatically
-generated](media/image36.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178677551-1bb86a03-564d-470e-bb6e-7cb0e08c58d4.png)
 
 A new data frame df\_standardize is created for standardization as the
 distribution of the features are not in gaussian or normal distributed
@@ -251,8 +246,7 @@ curve. Then we sorted the Sales data in descending order as it has
 outliers in the boxplot above. So, we removed the last 20 rows and
 sorted them.
 
-![Chart, box and whisker chart Description automatically
-generated](media/image37.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178678224-d9073280-7124-46f0-b5e5-7e7012c359c4.png)
 
 In the above figure, we sorted the profit column in descending order as
 the profits are in negative index so that we can remove those outlier
@@ -260,40 +254,35 @@ data after the standardization. Top 15 index are removed from the data
 and sorted it and assigned them to the original data frame for easy
 assigning of variable.
 
-![Chart, box and whisker chart Description automatically
-generated](media/image38.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178678309-2d9b814a-16d7-450a-af1e-61d645d70a95.png)
 
 In the above figure, we sorted the profit column in ascending first so
 that we can remove those outlier data after the standardization. Top 15
 index are removed from the data and sorted it and assigned them to the
 original data frame for easy assigning of variable.
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image39.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178678395-8a322f94-97d2-4c47-9b54-546bb2837110.png)
+
 
 Applying the four independent features from the data frame and using
 linear regression to create a model using Sales as the dependent
 feature.
 
-![Chart, scatter chart Description automatically
-generated](media/image40.tmp)
+
 
 Above figure demonstrates us about the predicted and model created
 visualizations and assigned it in a variable.
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image41.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178678511-a5508388-fe02-406c-b4cc-8d00c4213743.png)
 
 In this figure the summary of the model created is shown.
 
-![Graphical user interface, text, application, email Description
-automatically generated](media/image42.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178678584-52522ddf-122b-4a4c-ac7b-89069c4bc416.png)
 
 We now split the data into two parts test and train which are at a ratio
 of 20 and 80 respectively.
 
-![Chart, scatter chart Description automatically
-generated](media/image43.tmp)
+![image](https://user-images.githubusercontent.com/23220212/178678657-e3a92790-31e4-45f5-b503-6ee81db4d2c6.png)
 
 A predicted visualization is shown for trained data from the model
 created where x axis represents the predicted value from model and y is
